@@ -8,4 +8,4 @@ end
 ruby '1.8.7'
 
 gem 'sinatra', '~> 1.4', '>= 1.4.8'
-gem 'rake', '~> 11.3'
+gem 'rake', '~> 10.3'
